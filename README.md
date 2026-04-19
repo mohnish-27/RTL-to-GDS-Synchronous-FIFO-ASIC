@@ -267,7 +267,7 @@ ASIC design flow automation using TCL
 
 ---
 
-## Applications of 8-Bit Up/Down Counter 
+## Applications of Synchronous FIFO
 
 FIFOs are widely used in digital systems for buffering and data synchronization.
 
