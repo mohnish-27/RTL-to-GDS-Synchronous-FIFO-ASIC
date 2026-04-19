@@ -233,7 +233,7 @@ GDSII generation
 
 ### 7️⃣ Final Layout & GDS
 
-File: counter.gds
+File: fifo.gds
 
 Final routed layout
 
